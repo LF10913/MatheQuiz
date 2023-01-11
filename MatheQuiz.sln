@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatheQuiz", "WindowsFormsApp1\MatheQuiz.csproj", "{96A9A20F-D125-41EE-84A2-0B55991239DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{2514234C-AEE9-450B-9C71-7FB3C1D440BA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Windows\Media\Windows Ringin.wav = ..\..\..\..\..\Windows\Media\Windows Ringin.wav
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A9A20F-D125-41EE-84A2-0B55991239DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A9A20F-D125-41EE-84A2-0B55991239DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A9A20F-D125-41EE-84A2-0B55991239DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A9A20F-D125-41EE-84A2-0B55991239DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE57ECB-BFFE-41A3-8E5F-44C2B1925F2F}
+	EndGlobalSection
+EndGlobal
